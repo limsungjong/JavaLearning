@@ -9,8 +9,8 @@ package CodingTest;
     t = "3141592"이고 p = "271"인 경우, t의 길이가 3인 부분 문자열은 314,141,415,159,592입니다.
     이 문자열이 나타내는 수 중 271보다 작거나 같은 수는 141,159 2개입니다.
     case 1 t = "3141592" p = "271" => 2
-    case 1 t = "500220839878" p = "7" => 8
-    case 1 t = "10203" p = "15" => 3
+    case 2 t = "500220839878" p = "7" => 8
+    case 3 t = "10203" p = "15" => 3
  */
 public class SmallPartialString {
     public static void main(String[] args) {
