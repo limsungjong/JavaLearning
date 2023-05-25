@@ -24,7 +24,7 @@ package CodingTest;
     nums = [1,2,7,6,4]
     return 4
  */
-public class PrimeNumber {
+public class ThreeNumberToGetPrimeNumber {
     public static void main(String[] args) {
         int case1 = solution(new int[]{1, 2, 3, 4});
         int case2 = solution(new int[]{1, 2, 7, 6, 4});
