@@ -9,9 +9,9 @@ public class ArraysCopy {
 
     public static void arrayCopy() {
         int[] origin = new int[]{1, 5, 2, 4, 6, 3};
-        int[] copyArr1 = Arrays.copyOf(origin,5);
-        int[] copyArr2 = Arrays.copyOf(origin,2);
-        int[] copyArr3 = Arrays.copyOf(origin,8);
+        int[] copyArr1 = Arrays.copyOf(origin, 5);
+        int[] copyArr2 = Arrays.copyOf(origin, 2);
+        int[] copyArr3 = Arrays.copyOf(origin, 8);
 
         System.out.println(Arrays.toString(copyArr1));
         // 출력 : [1, 5, 2, 4, 6, 3]
