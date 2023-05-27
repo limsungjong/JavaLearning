@@ -2,7 +2,7 @@ package ArraysLearning;
 
 import java.util.Arrays;
 
-public class ArrayEqual {
+public class ArraysEqual {
     public static void main(String[] args) {
         arrayEqu();
     }

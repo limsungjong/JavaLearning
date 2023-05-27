@@ -2,7 +2,7 @@ package ArraysLearning;
 
 import java.util.Arrays;
 
-public class ArrayToString {
+public class ArraysToString {
     public static void main(String[] args) {
         arraysToString();
     }

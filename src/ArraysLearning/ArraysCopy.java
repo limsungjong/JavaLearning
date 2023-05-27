@@ -2,7 +2,7 @@ package ArraysLearning;
 
 import java.util.Arrays;
 
-public class ArrayCopy {
+public class ArraysCopy {
     public static void main(String[] args) {
         arrayCopy();
     }
