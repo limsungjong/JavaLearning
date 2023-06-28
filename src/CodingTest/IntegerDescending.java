@@ -1,5 +1,8 @@
 package CodingTest;
+
 import java.util.Arrays;
+import java.util.Comparator;
+
 /*
     프로그래머스 level : 1
     https://school.programmers.co.kr/learn/courses/30/lessons/12933
@@ -13,13 +16,25 @@ import java.util.Arrays;
  */
 public class IntegerDescending {
     public static void main(String[] args) {
-        System.out.println(solution(118372));
+        System.out.println(solution(35124687));
     }
 
-    public static long solution(long n) {
-        char[] chars = String.valueOf(n).toCharArray();
-        Arrays.sort(chars);
-        String result = new StringBuilder(new String(chars)).reverse().toString();
-        return Long.parseLong(result);
+    public static int solution(int n) {
+
+        String numberToStr = String.valueOf(n);
+        Character[] arr = new Character[numberToStr.length()];
+        for (int i = 0; i < numberToStr.length(); i++) {
+            arr[i] = numberToStr.charAt(i);
+        }
+
+        Arrays.sort(arr, Comparator.reverseOrder());
+
+        StringBuilder x = new StringBuilder();
+        for(Character v : arr) {
+            x.append(v);
+        }
+        int answer = Integer.parseInt(x.toString());
+        System.out.println(answer);
+        return answer;
     }
 }
