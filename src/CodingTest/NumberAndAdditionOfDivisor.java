@@ -31,7 +31,7 @@ package CodingTest;
 
     따라서, 24 - 25 + 26 + 27 = 52를 return 해야 합니다.
  */
-public class NumberAndAdditionOfMineralWater {
+public class NumberAndAdditionOfDivisor {
     public static void main(String[] args) {
         int case1 = solution(13,17);
         int case2 = solution(24,27);
