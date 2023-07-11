@@ -1,25 +1,11 @@
-package DataStructure;
+package DataStructure.LinkedList;
 
 import java.util.Objects;
 
 public class SingleLinkedList {
-    public static void main(String[] args) {
-        SingleLinkedList x = new SingleLinkedList();
-        x.append(1);
-        x.append(2);
-        x.append(3);
-        x.append(4);
-        x.append(5);
-        x.printNode();
-        x.delete(5);
-        x.delete(4);
-        x.delete(1);
-        System.out.println();
-        x.printNode();
-    }
     Node header = null;
 
-    SingleLinkedList() {
+    public SingleLinkedList() {
         this.header = new Node(null);
     }
 
@@ -32,7 +18,7 @@ public class SingleLinkedList {
         }
     }
 
-    boolean append(Object data) {
+    public boolean append(Object data) {
         Node n = header;
         Node end = new Node(data);
         boolean isComplete = false;
@@ -46,7 +32,7 @@ public class SingleLinkedList {
         return isComplete;
     }
 
-    Object delete(Object data) {
+    public Object delete(Object data) {
         Object deleteData = null;
         Node n = header;
 
@@ -58,16 +44,29 @@ public class SingleLinkedList {
                 n = n.next;
             }
         }
-
         return deleteData;
     }
 
-    void printNode() {
+    public void printNode() {
         Node n = header.next;
         while (n.next != null) {
             System.out.print(n.data + " -> ");
             n = n.next;
         }
         System.out.print(n.data);
+    }
+    /*
+    싱글 링크 리스트에서
+     */
+    public void removeDups() {
+        Node n = header;
+        while (n.next != null) {
+            Node r = n;
+            while (r.next != null) {
+                if (n.data == r.next.data) {
+                    r.next = r.next.next;
+                }
+            }
+        }
     }
 }
