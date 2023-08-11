@@ -1,4 +1,4 @@
-package CodingTest;
+package CodingTest.Level1;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

@@ -1,4 +1,4 @@
-package CodingTest;
+package CodingTest.Level1;
 
 /*
     문제 설명

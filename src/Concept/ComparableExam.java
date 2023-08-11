@@ -1,7 +1,5 @@
 package Concept;
 
-import CodingTest.ImportMiddleLetter;
-
 public class ComparableExam {
     public static void main(String[] args) {
         integerCompare();
