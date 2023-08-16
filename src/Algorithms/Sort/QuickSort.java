@@ -1,11 +1,11 @@
 package Algorithms.Sort;
 
-
 import java.util.Arrays;
+import java.util.concurrent.BrokenBarrierException;
 
 public class QuickSort {
     public static void main(String[] args) {
-        Integer[] arr = {9, 5, 6, 7, 4, 1, 2, 3};
+        int[] arr = {9, 5, 6, 7, 4, 1, 2, 3};
 //        quickSort(arr, 0, arr.length - 1);
 
 //        for(int x : arr) {
@@ -18,7 +18,7 @@ public class QuickSort {
 //            System.out.print(x + " ");
 //        }
 
-        hoareSort(arr, 0, arr.length - 1);
+        exam(arr, 0, arr.length - 1);
         System.out.println(Arrays.toString(arr));
     }
 
@@ -32,7 +32,6 @@ public class QuickSort {
     }
 
     public static <T extends Comparable<T>> int partition(T[] arr, int low, int high) {
-        System.out.println("Start " + Arrays.toString(arr));
         T pivot = arr[high];
         int i = low - 1;
         for (int j = low; j < high; j++) {
@@ -47,11 +46,10 @@ public class QuickSort {
         arr[i + 1] = arr[high];
         arr[high] = temp;
 
-        System.out.println("End " + Arrays.toString(arr));
         return i + 1;
     }
 
-    public static void quickSort2(Integer[] arr, int start, int end) {
+    public static void quickSort2(int[] arr, int start, int end) {
         System.out.println("Start " + Arrays.toString(arr));
         /*
         크게 보자 왼쪽과 오른쪽으로 분할해야 한다. 재귀적으로 나를 다시 부르면서 start와 end는 바꿔서 줘야 한다
@@ -120,4 +118,8 @@ public class QuickSort {
         }
     }
 
+    // 9, 5, 6, 7, 4, 1, 2, 3
+    public static void exam(int[] arr, int low, int high) {
+
+    }
 }
