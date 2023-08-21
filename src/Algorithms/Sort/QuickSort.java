@@ -1,6 +1,7 @@
 package Algorithms.Sort;
 
 import java.util.Arrays;
+import java.util.Date;
 import java.util.concurrent.BrokenBarrierException;
 
 public class QuickSort {
@@ -120,6 +121,34 @@ public class QuickSort {
 
     // 9, 5, 6, 7, 4, 1, 2, 3
     public static void exam(int[] arr, int low, int high) {
+        if(low >= high) {
+            return;
+        }
+        int temp;
+        int i = low + 1;
+        int j = high;
+        int pivot = low;
 
+        while (i <= j) {
+            while (arr[i] <= arr[pivot] && i < high) {
+                i++;
+            }
+
+            while (arr[j] >= arr[pivot] && j > low) {
+                j--;
+            }
+
+            if(i >= j) {
+                temp = arr[pivot];
+                arr[pivot] = arr[j];
+                arr[j] = temp;
+            } else {
+                temp = arr[j];
+                arr[j] = arr[i];
+                arr[i] = temp;
+            }
+        }
+        exam(arr, low, j - 1);
+        exam(arr, j + 1, high);
     }
 }
