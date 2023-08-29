@@ -4,23 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2f1a19-9fa6-4d91-b1e2-2ec902026de1" name="변경" comment="Concept에 Copy 예제 각각 추가">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="4e2f1a19-9fa6-4d91-b1e2-2ec902026de1" name="변경" comment="Sort 패키지 MergeSor 예제 변경">
       <change afterPath="$PROJECT_DIR$/src/ArraysLearning/ArraysStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/MinimumRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/NumberAndAdditionOfMineralWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionsInterface/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringLearning/StringLearning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Level1/MakingHamburgers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/SingleNode.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingTest/IntegerDescending.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/IntegerDescending.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CodingTest/OverPainting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/OverPainting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Concept/MethodRef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Concept/MethodRef.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataStructure/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sort/SelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataStructure/LinkedList/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/SinglyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -49,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
@@ -141,161 +138,47 @@
       <workItem from="1687856390429" duration="3266000" />
       <workItem from="1687860812262" duration="833000" />
       <workItem from="1687904654062" duration="1385000" />
-      <workItem from="1687915876552" duration="2645000" />
-    </task>
-    <task id="LOCAL-00001" summary="create BubbleSort, SelectionSort">
-      <created>1683256299046</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1683256299046</updated>
-    </task>
-    <task id="LOCAL-00002" summary="create InsertionSort">
-      <created>1683273465074</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1683273465074</updated>
-    </task>
-    <task id="LOCAL-00003" summary="프로그래머스 코딩테스트 solution 추가&#10;level 1 : 크기가 작은 문자열 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/147355">
-      <created>1683504266588</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1683504266588</updated>
-    </task>
-    <task id="LOCAL-00004" summary="프로그래머스 코딩테스트 solution 추가&#10;level 1 : 크기가 작은 문자열 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/147355">
-      <created>1683513151548</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1683513151548</updated>
-    </task>
-    <task id="LOCAL-00005" summary="프로그래머스 코딩테스트 solution 설명추가&#10;level 1 : 크기가 작은 문자열 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/147355">
-      <created>1683514730801</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1683514730801</updated>
-    </task>
-    <task id="LOCAL-00006" summary="프로그래머스 코딩테스트 solution 추억 점수 설명 추가, 테스트 케이스 추가&#10;level 1 : 크기가 작은 문자열 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/176963">
-      <created>1683514773895</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1683514773895</updated>
-    </task>
-    <task id="LOCAL-00007" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 가장 가까운 글자 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/142086">
-      <created>1683616773741</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1683616773741</updated>
-    </task>
-    <task id="LOCAL-00008" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 과일 장수 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/135808">
-      <created>1683722164859</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1683722164859</updated>
-    </task>
-    <task id="LOCAL-00009" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 가운데 글자 가져오기 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/12903">
-      <created>1684078855195</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1684078855195</updated>
-    </task>
-    <task id="LOCAL-00010" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 푸드 파이트 대회 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/134240">
-      <created>1684211587249</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1684211587249</updated>
-    </task>
-    <task id="LOCAL-00011" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 삼총사 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/131705">
-      <created>1684376250455</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1684376250455</updated>
-    </task>
-    <task id="LOCAL-00012" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 콜라 문제 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/132267">
-      <created>1684488076862</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1684488076862</updated>
-    </task>
-    <task id="LOCAL-00013" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 약수의 합 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/12928">
-      <created>1684489452064</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1684489452064</updated>
-    </task>
-    <task id="LOCAL-00014" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열을 정수로 바꾸기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12925">
-      <created>1684567082612</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1684567082612</updated>
-    </task>
-    <task id="LOCAL-00015" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열을 정수로 바꾸기&#10;설명 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12925">
-      <created>1684567106460</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1684567106460</updated>
-    </task>
-    <task id="LOCAL-00016" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 정수 내림차순으로 배치하기&#10;설명 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12933">
-      <created>1684690472014</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1684690472014</updated>
-    </task>
-    <task id="LOCAL-00017" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 나머지가 1이 되는 수 찾기&#10;설명 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/87389">
-      <created>1684841839919</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1684841839919</updated>
-    </task>
-    <task id="LOCAL-00018" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 소수 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12977">
-      <created>1684937553271</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1684937553271</updated>
-    </task>
-    <task id="LOCAL-00019" summary="Algorithms 패키지 추가, 소수 구하는 알고리즘 추가">
-      <created>1685006709502</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1685006709502</updated>
-    </task>
-    <task id="LOCAL-00020" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 소수 만들기&#10;클래스 이름 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12977">
-      <created>1685006760018</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1685006760018</updated>
-    </task>
-    <task id="LOCAL-00021" summary="ArraysLearning 패키지 추가, ArraysSort 클래스 추가">
-      <created>1685006835532</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1685006835532</updated>
-    </task>
-    <task id="LOCAL-00022" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 소수 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12921">
-      <created>1685007256545</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1685007256545</updated>
+      <workItem from="1687915876552" duration="3830000" />
+      <workItem from="1687926760921" duration="2081000" />
+      <workItem from="1688405886258" duration="2195000" />
+      <workItem from="1688517969114" duration="1099000" />
+      <workItem from="1688656041918" duration="72000" />
+      <workItem from="1688975676673" duration="10881000" />
+      <workItem from="1689088713169" duration="3123000" />
+      <workItem from="1689097645167" duration="1708000" />
+      <workItem from="1689145161140" duration="99000" />
+      <workItem from="1689146538303" duration="2762000" />
+      <workItem from="1689315272184" duration="9000" />
+      <workItem from="1689407626570" duration="2633000" />
+      <workItem from="1689416227360" duration="1618000" />
+      <workItem from="1689417877341" duration="2804000" />
+      <workItem from="1689489819814" duration="26514000" />
+      <workItem from="1689643635384" duration="117000" />
+      <workItem from="1689763594158" duration="12331000" />
+      <workItem from="1689934753530" duration="1800000" />
+      <workItem from="1690157510875" duration="7100000" />
+      <workItem from="1690781292788" duration="1531000" />
+      <workItem from="1690975792601" duration="6456000" />
+      <workItem from="1691035097112" duration="3159000" />
+      <workItem from="1691233008564" duration="1822000" />
+      <workItem from="1691382858434" duration="1326000" />
+      <workItem from="1691384512448" duration="1789000" />
+      <workItem from="1691479767909" duration="1958000" />
+      <workItem from="1691541461354" duration="1788000" />
+      <workItem from="1691579939502" duration="129000" />
+      <workItem from="1691657060948" duration="8216000" />
+      <workItem from="1691754128567" duration="2911000" />
+      <workItem from="1691801497169" duration="3430000" />
+      <workItem from="1691847790430" duration="129000" />
+      <workItem from="1691882441590" duration="12627000" />
+      <workItem from="1691970868045" duration="18559000" />
+      <workItem from="1692076059274" duration="7335000" />
+      <workItem from="1692197078269" duration="290000" />
+      <workItem from="1692318267858" duration="3565000" />
+      <workItem from="1692618437553" duration="367000" />
+      <workItem from="1692713028519" duration="444000" />
+      <workItem from="1693233913563" duration="32000" />
+      <workItem from="1693275216397" duration="3283000" />
     </task>
     <task id="LOCAL-00023" summary="Array 예제 추가">
       <created>1685120328305</created>
@@ -374,39 +257,305 @@
       <option name="project" value="LOCAL" />
       <updated>1686317774480</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 약수의 개수와 덧셈&#10;https://school.programmers.co.kr/learn/courses/30/lessons/77884">
+      <created>1687919934723</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1687919934723</updated>
+    </task>
+    <task id="LOCAL-00035" summary="외부 파일 추가">
+      <created>1687920080333</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1687920080333</updated>
+    </task>
+    <task id="LOCAL-00036" summary="외부 파일 추가 변경">
+      <created>1687920092132</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1687920092132</updated>
+    </task>
+    <task id="LOCAL-00037" summary="외부 파일 추가 변경">
+      <created>1687920097399</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1687920097399</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Comparator를 이용한 solution으로 변경">
+      <created>1687920217474</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1687920217474</updated>
+    </task>
+    <task id="LOCAL-00039" summary="NumberAndAdditionOfMineralWater =&gt; NumberAndAdditionOfDivisor 이름 변경">
+      <created>1687929545827</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1687929545827</updated>
+    </task>
+    <task id="LOCAL-00040" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 최소직사각형&#10;https://school.programmers.co.kr/learn/courses/30/lessons/86491">
+      <created>1688410150297</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1688410150297</updated>
+    </task>
+    <task id="LOCAL-00041" summary="String Method, StingBuilder Method 추가">
+      <created>1688518234837</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1688518234837</updated>
+    </task>
+    <task id="LOCAL-00042" summary="ExceptionPractice 추가">
+      <created>1688518278289</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1688518278289</updated>
+    </task>
+    <task id="LOCAL-00043" summary="삽입 정렬 예제 변경">
+      <created>1688518302437</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1688518302437</updated>
+    </task>
+    <task id="LOCAL-00044" summary="리드미 추가">
+      <created>1688518348402</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1688518348402</updated>
+    </task>
+    <task id="LOCAL-00045" summary="메소드 참조 예제 변경">
+      <created>1688518374984</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1688518374984</updated>
+    </task>
+    <task id="LOCAL-00046" summary="선택 정렬 예제 줄바꿈 변경">
+      <created>1688518391970</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1688518391970</updated>
+    </task>
+    <task id="LOCAL-00047" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 직사각형 별찍기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12969">
+      <created>1688975953207</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1688975953207</updated>
+    </task>
+    <task id="LOCAL-00048" summary="파일 삭제">
+      <created>1688975964636</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1688975964636</updated>
+    </task>
+    <task id="LOCAL-00049" summary="main.yml 파일 제거">
+      <created>1688976068316</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1688976068316</updated>
+    </task>
+    <task id="LOCAL-00050" summary="import 변경">
+      <created>1688980356038</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1688980356038</updated>
+    </task>
+    <task id="LOCAL-00051" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 형렬의 덧셈&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12950">
+      <created>1688980414420</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1688980414420</updated>
+    </task>
+    <task id="LOCAL-00052" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 2016년&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12901">
+      <created>1689098564201</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1689098564201</updated>
+    </task>
+    <task id="LOCAL-00053" summary="예제 파일들 패키지 추가 또는 이동">
+      <created>1689098759477</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1689098759477</updated>
+    </task>
+    <task id="LOCAL-00054" summary="리드미 파일 추가">
+      <created>1689157218895</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1689157218895</updated>
+    </task>
+    <task id="LOCAL-00055" summary="프로그래머스 코딩테스트 solution&#10;level 1 : [1차] 다트 게임&#10;https://school.programmers.co.kr/learn/courses/30/lessons/17682">
+      <created>1689526294046</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1689526294046</updated>
+    </task>
+    <task id="LOCAL-00056" summary="collection 예제 추가">
+      <created>1689643747034</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1689643747034</updated>
+    </task>
+    <task id="LOCAL-00057" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 대충 만든 자판&#10;https://school.programmers.co.kr/learn/courses/30/lessons/160586">
+      <created>1689791876575</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1689791876576</updated>
+    </task>
+    <task id="LOCAL-00058" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 수박수박수박수박수박수?&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12922">
+      <created>1690189116857</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1690189116857</updated>
+    </task>
+    <task id="LOCAL-00059" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 서울에서 김서방 찾기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12919">
+      <created>1690194288260</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1690194288260</updated>
+    </task>
+    <task id="LOCAL-00060" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 이상한 문자 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12930">
+      <created>1690987303186</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1690987303186</updated>
+    </task>
+    <task id="LOCAL-00061" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 시저 암호&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12926">
+      <created>1691038303118</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1691038303119</updated>
+    </task>
+    <task id="LOCAL-00062" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 다루기 기본&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12918">
+      <created>1691235644904</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1691235644904</updated>
+    </task>
+    <task id="LOCAL-00063" summary="프로그래머스 코딩테스트 solution&#10;level 2 : 숫자 변환하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/154538">
+      <created>1691665130466</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1691665130466</updated>
+    </task>
+    <task id="LOCAL-00064" summary="패키지 level1 생성하고 모두 옮김">
+      <created>1691755902072</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1691755902073</updated>
+    </task>
+    <task id="LOCAL-00065" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 핸드폰 번호 가리기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12948">
+      <created>1691758521826</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1691758521826</updated>
+    </task>
+    <task id="LOCAL-00066" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 내 p와 y의 개수&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12916">
+      <created>1691908868668</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1691908868668</updated>
+    </task>
+    <task id="LOCAL-00067" summary="Sort 패키지 QuickSort 추가">
+      <created>1692006756019</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1692006756019</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Sort 패키지 QuickSort 예제 추가">
+      <created>1692197255437</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1692197255438</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Sort 패키지 MergeSort 예제 추가">
+      <created>1692618778849</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1692618778849</updated>
+    </task>
+    <task id="LOCAL-00070" summary="Sort 패키지 QuickSort 예제 추가">
+      <created>1692618805146</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1692618805146</updated>
+    </task>
+    <task id="LOCAL-00071" summary="Sort 패키지 MergeSor 예제 변경">
+      <created>1692713471729</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1692713471730</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 가운데 글자 가져오기 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/12903" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 푸드 파이트 대회 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/134240" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 삼총사 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/131705" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 콜라 문제 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/132267" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 약수의 합 &#10;https://school.programmers.co.kr/learn/courses/30/lessons/12928" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열을 정수로 바꾸기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12925" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열을 정수로 바꾸기&#10;설명 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12925" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 정수 내림차순으로 배치하기&#10;설명 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12933" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 나머지가 1이 되는 수 찾기&#10;설명 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/87389" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 소수 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12977" />
-    <MESSAGE value="Algorithms 패키지 추가, 소수 구하는 알고리즘 추가" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 소수 만들기&#10;클래스 이름 변경&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12977" />
-    <MESSAGE value="ArraysLearning 패키지 추가, ArraysSort 클래스 추가" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 소수 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12921" />
-    <MESSAGE value="Array 예제 추가" />
-    <MESSAGE value="Arrays 패키지 : 예제 추가 , 예제 이름 변경" />
-    <MESSAGE value="Arrays sort, copy update" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : x만큼 간격이 있는 n개의 숫자&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12954" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 없는 숫자 더하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/86051" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 덧칠하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/161989" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 예산&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12982" />
-    <MESSAGE value="ArraysSort 예제 추가&#10;ASC, DESC, DESC2" />
-    <MESSAGE value="Concept에 ComparableExam, ComparatorExam 예제 각각 추가" />
-    <MESSAGE value="Concept에 MethodRef, ConstructorRef 예제 각각 추가" />
-    <MESSAGE value="Concept에 Copy 예제 각각 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="Concept에 Copy 예제 각각 추가" />
+    <MESSAGE value="선택 정렬 예제 줄바꿈 변경" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 직사각형 별찍기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12969" />
+    <MESSAGE value="파일 삭제" />
+    <MESSAGE value="main.yml 파일 제거" />
+    <MESSAGE value="import 변경" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 형렬의 덧셈&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12950" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 2016년&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12901" />
+    <MESSAGE value="예제 파일들 패키지 추가 또는 이동" />
+    <MESSAGE value="리드미 파일 추가" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : [1차] 다트 게임&#10;https://school.programmers.co.kr/learn/courses/30/lessons/17682" />
+    <MESSAGE value="collection 예제 추가" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 대충 만든 자판&#10;https://school.programmers.co.kr/learn/courses/30/lessons/160586" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 수박수박수박수박수박수?&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12922" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 서울에서 김서방 찾기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12919" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 이상한 문자 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12930" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 시저 암호&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12926" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 다루기 기본&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12918" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 2 : 숫자 변환하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/154538" />
+    <MESSAGE value="패키지 level1 생성하고 모두 옮김" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 핸드폰 번호 가리기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12948" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 내 p와 y의 개수&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12916" />
+    <MESSAGE value="Sort 패키지 QuickSort 추가" />
+    <MESSAGE value="Sort 패키지 MergeSort 예제 추가" />
+    <MESSAGE value="Sort 패키지 QuickSort 예제 추가" />
+    <MESSAGE value="Sort 패키지 MergeSor 예제 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="Sort 패키지 MergeSor 예제 변경" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
