@@ -4,15 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e2f1a19-9fa6-4d91-b1e2-2ec902026de1" name="변경" comment="Sort 패키지 MergeSor 예제 변경">
+    <list default="true" id="4e2f1a19-9fa6-4d91-b1e2-2ec902026de1" name="변경" comment="힙 정렬 예제 변경">
+      <change afterPath="$PROJECT_DIR$/src/Algorithms/Search/BreathFirstSearch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/ArraysLearning/ArraysStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CodingTest/Level1/MakingHamburgers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Jobda/GetTemporaryHolyDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Jobda/LadderGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Jobda/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CodingTest/Level1/WalkingPark.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/DoubleNode.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/DoublyLinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/LinkedList.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/Node.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/SingleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/ExAM.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Exam.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/Exam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UsuallyClass/TimeClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CodingTest/Level1/AddNumberDeosntExist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CodingTest/Level1/AddNumberDeosntExist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DataStructure/LinkedList/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataStructure/LinkedList/SinglyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,9 +32,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="Interface" />
+        <option value="HTTP Request" />
         <option value="Class" />
       </list>
     </option>
@@ -36,6 +46,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2P0XzDVb7nzUInaDLkHcMa2ywxk" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -50,11 +64,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/sung8/OneDrive/edu/javaLearning&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ],
+    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;,
+      &quot;repository&quot;
+    ]
   }
 }</component>
   <component name="RecentsManager">
@@ -178,91 +207,48 @@
       <workItem from="1692618437553" duration="367000" />
       <workItem from="1692713028519" duration="444000" />
       <workItem from="1693233913563" duration="32000" />
-      <workItem from="1693275216397" duration="3283000" />
-    </task>
-    <task id="LOCAL-00023" summary="Array 예제 추가">
-      <created>1685120328305</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1685120328305</updated>
-    </task>
-    <task id="LOCAL-00024" summary="Arrays 패키지 : 예제 추가 , 예제 이름 변경">
-      <created>1685164561607</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1685164561607</updated>
-    </task>
-    <task id="LOCAL-00025" summary="Arrays sort, copy update">
-      <created>1685167450078</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1685167450078</updated>
-    </task>
-    <task id="LOCAL-00026" summary="프로그래머스 코딩테스트 solution&#10;level 1 : x만큼 간격이 있는 n개의 숫자&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12954">
-      <created>1685248808258</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1685248808260</updated>
-    </task>
-    <task id="LOCAL-00027" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 없는 숫자 더하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/86051">
-      <created>1685433676897</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1685433676898</updated>
-    </task>
-    <task id="LOCAL-00028" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 덧칠하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/161989">
-      <created>1685629322153</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1685629322153</updated>
-    </task>
-    <task id="LOCAL-00029" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 예산&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12982">
-      <created>1685719881401</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1685719881401</updated>
-    </task>
-    <task id="LOCAL-00030" summary="ArraysSort 예제 추가&#10;ASC, DESC, DESC2">
-      <created>1685769317050</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1685769317050</updated>
-    </task>
-    <task id="LOCAL-00031" summary="Concept에 ComparableExam, ComparatorExam 예제 각각 추가">
-      <created>1685958737838</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1685958737838</updated>
-    </task>
-    <task id="LOCAL-00032" summary="Concept에 MethodRef, ConstructorRef 예제 각각 추가">
-      <created>1686033356105</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1686033356105</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Concept에 Copy 예제 각각 추가">
-      <created>1686317774480</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1686317774480</updated>
-    </task>
-    <task id="LOCAL-00034" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 약수의 개수와 덧셈&#10;https://school.programmers.co.kr/learn/courses/30/lessons/77884">
-      <created>1687919934723</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1687919934723</updated>
+      <workItem from="1693275216397" duration="3627000" />
+      <workItem from="1693383276725" duration="1444000" />
+      <workItem from="1693555928125" duration="3344000" />
+      <workItem from="1693736283236" duration="6674000" />
+      <workItem from="1693796351046" duration="2023000" />
+      <workItem from="1693799701337" duration="5214000" />
+      <workItem from="1693805440908" duration="5286000" />
+      <workItem from="1693880926122" duration="126000" />
+      <workItem from="1693897106761" duration="1769000" />
+      <workItem from="1693901178746" duration="5000" />
+      <workItem from="1694092160594" duration="868000" />
+      <workItem from="1694093037925" duration="1597000" />
+      <workItem from="1694139569405" duration="13876000" />
+      <workItem from="1694239420937" duration="1859000" />
+      <workItem from="1694342955019" duration="1484000" />
+      <workItem from="1694393471120" duration="5142000" />
+      <workItem from="1694410559024" duration="5805000" />
+      <workItem from="1694417434342" duration="1835000" />
+      <workItem from="1694471409254" duration="7902000" />
+      <workItem from="1694705142829" duration="15000" />
+      <workItem from="1694775132654" duration="1318000" />
+      <workItem from="1694783821720" duration="345000" />
+      <workItem from="1694824067084" duration="815000" />
+      <workItem from="1694863662148" duration="283000" />
+      <workItem from="1694864503169" duration="2663000" />
+      <workItem from="1694910238489" duration="12142000" />
+      <workItem from="1695005890403" duration="2556000" />
+      <workItem from="1695105094472" duration="2436000" />
+      <workItem from="1695114977150" duration="2771000" />
+      <workItem from="1695199801387" duration="287000" />
+      <workItem from="1695207546220" duration="2321000" />
+      <workItem from="1695261452828" duration="9000" />
+      <workItem from="1695305370600" duration="535000" />
+      <workItem from="1695356859274" duration="1768000" />
+      <workItem from="1696682499732" duration="8866000" />
+      <workItem from="1696746940319" duration="3162000" />
+      <workItem from="1696760015515" duration="5318000" />
+      <workItem from="1696836037576" duration="617000" />
+      <workItem from="1696899677704" duration="2344000" />
+      <workItem from="1696939103446" duration="612000" />
+      <workItem from="1697210587647" duration="615000" />
+      <workItem from="1697251039014" duration="2870000" />
     </task>
     <task id="LOCAL-00035" summary="외부 파일 추가">
       <created>1687920080333</created>
@@ -523,27 +509,97 @@
       <option name="project" value="LOCAL" />
       <updated>1692713471730</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 햄버거 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/133502">
+      <created>1693278594277</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1693278594278</updated>
+    </task>
+    <task id="LOCAL-00073" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 하샤드 수&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12947">
+      <created>1693384120958</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1693384120958</updated>
+    </task>
+    <task id="LOCAL-00074" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 내림차순으로 배치하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12917">
+      <created>1693559763516</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1693559763516</updated>
+    </task>
+    <task id="LOCAL-00075" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 내 마음대로 정렬하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12915">
+      <created>1693745092847</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1693745092848</updated>
+    </task>
+    <task id="LOCAL-00076" summary="https://jobda.phs-programmertest.com/exam/problems&#10;&#10;잡다 개발 구현 능력 검사 튜토리얼&#10;test1 1년에 주말이 몇일 있는지 찾기">
+      <created>1694093118576</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1694093118576</updated>
+    </task>
+    <task id="LOCAL-00077" summary="https://jobda.phs-programmertest.com/exam/problems&#10;&#10;잡다 개발 구현 능력 검사 튜토리얼&#10;test2 1년에 주말이랑 공휴일이 주어졌을 때 쉬는날 구하기">
+      <created>1694093483557</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1694093483557</updated>
+    </task>
+    <task id="LOCAL-00078" summary="병합 정렬 예제 작성">
+      <created>1694248141325</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1694248141325</updated>
+    </task>
+    <task id="LOCAL-00079" summary="프로그래머스 코딩테스트 solution&#10;level 1 : 같은 숫자는 싫어&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12906">
+      <created>1694784164833</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1694784164833</updated>
+    </task>
+    <task id="LOCAL-00080" summary="힙 정렬 예제 추가">
+      <created>1695046540443</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1695046540443</updated>
+    </task>
+    <task id="LOCAL-00081" summary="카운팅 정렬 예제 추가">
+      <created>1695133534258</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1695133534258</updated>
+    </task>
+    <task id="LOCAL-00082" summary="카운팅 정렬 예제 변경">
+      <created>1695221803223</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1695221803223</updated>
+    </task>
+    <task id="LOCAL-00083" summary="힙 정렬 예제 변경">
+      <created>1695305908175</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1695305908176</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="선택 정렬 예제 줄바꿈 변경" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 직사각형 별찍기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12969" />
-    <MESSAGE value="파일 삭제" />
-    <MESSAGE value="main.yml 파일 제거" />
-    <MESSAGE value="import 변경" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 형렬의 덧셈&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12950" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 2016년&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12901" />
-    <MESSAGE value="예제 파일들 패키지 추가 또는 이동" />
-    <MESSAGE value="리드미 파일 추가" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : [1차] 다트 게임&#10;https://school.programmers.co.kr/learn/courses/30/lessons/17682" />
-    <MESSAGE value="collection 예제 추가" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 대충 만든 자판&#10;https://school.programmers.co.kr/learn/courses/30/lessons/160586" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 수박수박수박수박수박수?&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12922" />
-    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 서울에서 김서방 찾기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12919" />
     <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 이상한 문자 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12930" />
     <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 시저 암호&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12926" />
     <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 다루기 기본&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12918" />
@@ -555,7 +611,21 @@
     <MESSAGE value="Sort 패키지 MergeSort 예제 추가" />
     <MESSAGE value="Sort 패키지 QuickSort 예제 추가" />
     <MESSAGE value="Sort 패키지 MergeSor 예제 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="Sort 패키지 MergeSor 예제 변경" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 햄버거 만들기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/133502" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 하샤드 수&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12947" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 내림차순으로 배치하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12917" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 문자열 내 마음대로 정렬하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12915" />
+    <MESSAGE value="https://jobda.phs-programmertest.com/exam/problems&#10;&#10;잡다 개발 구현 능력 검사 튜토리얼&#10;test1 1년에 주말이 몇일 있는지 찾기" />
+    <MESSAGE value="https://jobda.phs-programmertest.com/exam/problems&#10;&#10;잡다 개발 구현 능력 검사 튜토리얼&#10;test2 1년에 주말이랑 공휴일이 주어졌을 때 쉬는날 구하기" />
+    <MESSAGE value="https://jobda.phs-programmertest.com/exam/problems&#10;&#10;잡다 개발 구현 능력 검사 튜토리얼&#10;test3 임시 공휴일을 규칙대로 구하기" />
+    <MESSAGE value="병합 정렬 예제 작성" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 같은 숫자는 싫어&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12906" />
+    <MESSAGE value="힙 정렬 예제 추가" />
+    <MESSAGE value="카운팅 정렬 예제 추가" />
+    <MESSAGE value="카운팅 정렬 예제 변경" />
+    <MESSAGE value="힙 정렬 예제 변경" />
+    <MESSAGE value="프로그래머스 코딩테스트 solution&#10;level 1 : 자릿수 더하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12931" />
+    <option name="LAST_COMMIT_MESSAGE" value="프로그래머스 코딩테스트 solution&#10;level 1 : 자릿수 더하기&#10;https://school.programmers.co.kr/learn/courses/30/lessons/12931" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
